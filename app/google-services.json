@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239837242803",
+    "project_id": "store-data-realtime-df2b6",
+    "storage_bucket": "store-data-realtime-df2b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239837242803:android:d0404c1ca1398acdfa57c6",
+        "android_client_info": {
+          "package_name": "com.example.storedatarealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEn89IIN3g6BP_8MR8Mkfx4mPh8QMcU18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
